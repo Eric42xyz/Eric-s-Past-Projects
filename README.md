@@ -1,0 +1,1 @@
+This is my undergraduate degree senior project or capstone project.  We were capable but nieve and misnamed our device as a "Linear induction motor" when in fact it is an inline perminent magnet motor.
